@@ -1,0 +1,27 @@
+.container {
+  position: center;
+  text-align: center;
+  min-height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container h2 {
+  font-size: 5rem;
+}
+
+.container a {
+  font-size: 1.4rem;
+}
+
+.a {
+  color: black;
+}
+
+.link {
+  color: black;
+}
+
+.musa {
+  color: black;
+}

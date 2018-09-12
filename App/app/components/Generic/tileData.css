@@ -1,0 +1,11 @@
+.logo {
+  height: 7rem;
+  position: center;
+}
+
+.header {
+  position: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+}
